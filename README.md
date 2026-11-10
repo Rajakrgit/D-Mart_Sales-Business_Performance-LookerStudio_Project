@@ -1,7 +1,7 @@
 # looker studio Dashboard link: https://datastudio.google.com/s/gjsY0iuUaYI
 # D-Mart_Sales-Business_Performance-LookerStudio_Project
 # 1. Project Overview
-The Sales Performance Analytics project uses an interactive Looker Studio report to three interactive dashboard pages to review overall sales performance, product profitability, and sales-channel behaviour. It brings key business measures into one reporting experience and helps users explore performance by product, category, month, location, sales channel, and payment mode.
+The Sales Performance Analytics project uses an interactive Looker Studio report to three interactive dashboard pages to review overall sales performance, product profitability, and sales-channel behaviour. It brings key business measures into one reporting experience and helps users explore performance by product, category, month, location, sales channel, and payment mode:
 • Sales Performance Overview
 • Product Performance
 • Sales Channel Analysis
