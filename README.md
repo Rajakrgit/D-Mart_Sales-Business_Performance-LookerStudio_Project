@@ -1,13 +1,11 @@
 looker studio Dashboard link: https://datastudio.google.com/s/gjsY0iuUaYI
 # D-Mart_Sales-Business_Performance-LookerStudio_Project
 # 1. Project Overview
-The Sales Performance Analytics project uses an interactive Looker Studio report to three interactive dashboard pages to review overall sales performance, product profitability, and sales-channel behaviour. It brings key business measures into one reporting experience and helps users explore performance by product, category, month, location, sales channel, and payment mode.
+This project presents an end-to-end business intelligence solution designed to analyze D-Mart's retail performance, profitability, and omnichannel distribution. Using interactive reporting, the dashboards consolidate transactional sales, procurement costs, product category performance, and regional distribution into two executive views:
 
-• Sales Performance Overview
+• Sales Performance Overview: Tracks core financial health, profit margins, procurement-to-sales efficiency, and category/product revenue drivers.
 
-• Product Performance
-
-• Sales Channel Analysis
+• Sales Channel Analysis: Evaluates omnichannel revenue streams (Direct Sales, Online, Wholesaler), payment mode adoption, order quantity distributions, and state-   level geographic performance.
 
 # 2. Business requirements
 • Track key sales and profitability KPIs.
@@ -30,7 +28,7 @@ The Sales Performance Analytics project uses an interactive Looker Studio report
 # 4. Challenges faced
 • Verify KPI definitions, especially whether channel values 283, 167, and 77 are counts or monetary revenue.
 
-• Reconcile total profit shown as 68,907.92 on one page and rounded to 68,908 on another.
+• Reconcile total profit shown as 68,907.92.
 
 • Confirm the profit-margin formula and use it consistently.
 
